@@ -1,26 +1,75 @@
-<h1 align="center">Merhaba 👋, ben Salih YAKAN</h1>
-<h3 align="center">Arka Uç Web Geliştiricisi</h3>
+<h1 align="center">Hi 👋, I'm Salih Yakan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salihyakan&label=Profile%20views&color=0e75b6&style=flat" alt="salihyakan" /> </p>
 
-<p align="left"> <img src="https: //komarev.com/ghpvc/?username=salihyakan&label=Profile%20views&color=0e75b6&style=flat" alt = "salihyakan" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihyakan&theme=" alt="salihyakan" /></a> </p>
 
-<p align = "left"> <a href = "https://github" .com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=salihyakan" alt = "salihyakan" /></a> < /p>
 
-<h3 align="left">Benimle bağlantı kurun:</h3>
+- 📫 How to reach me **salihyakann@gmail.com**
+
+<div> <a href="https://github.com/salihyakan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:salihyakann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align ="left"> <a href = "https://getbootstrap.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/ simgeler/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" width = "40" height = "40"/> </a> <a href = "https://www.w3schools.com/css/ " target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "css3" genişlik = "40" yükseklik = "40"/> </a> <a href = "https://www.djangoproject.com/" target = "_blank" rel = "noreferrer"> <img src = "https: //cdn.worldvectorlogo.com/logos/django.svg" alt = "django" width = "40" height = "40"/> </a> <a href = "https://flask.palletsprojects.com/ " target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt = "flask" width = "40" height = " 40"/> </a> <a href = "https://git-scm.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/ logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40"/> </a> <a href = "https://www.w3.org/ html/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = " html5" width = "40" height = "40"/> </a> <a href = "https://www.postgresql.org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt = "postgresql " genişlik = "40" yükseklik = "40"/> </a> <a href = "https://www.python.org" target = "_blank" rel = "noreferrer"> <img src = "https: //raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "40" height = "40"/> </a> <a href = " https://www.sqlite.org/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt = " sqlite" width = "40" height = "40"/> </a> </p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihyakan&layout=compact&theme=dark" alt=salihyakan />
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app /api?username=salihyakan&show_icons=true&locale=tr" alt="salihyakan" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=salihyakan&show_icons=true&locale=en&theme=dark" alt="salihyakan" /></p>
 
-<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=salihyakan&" alt = "salihyakan" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=salihyakan&theme=dark" alt="salihyakan" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=salihyakan&theme=react-dark"/>
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+name: generate animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake.svg">
-</picture>
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    
+  
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: salihyakan/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+          
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
