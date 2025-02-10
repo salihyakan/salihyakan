@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salih Yakan</h1>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihyakan&theme=radical" alt="salihyakan" /></a> </p>
-
 <div> <a href="https://github.com/salihyakan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
