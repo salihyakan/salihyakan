@@ -114,24 +114,6 @@
 
 ## 📚 İlgi Alanlarım & Hobilerim
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/book.png" width="50" height="50" title="Kitap Okumak"/>
-
-
-  
-  <img src="https://img.icons8.com/color/48/000000/clapperboard.png" width="50" height="50" title="Film İzlemek"/>
-
-
-  
-  <img src="https://img.icons8.com/color/48/000000/search.png" width="50" height="50" title="Araştırma"/>
-
-
-  
-  <img src="https://img.icons8.com/color/48/000000/learning.png" width="50" height="50" title="Yeni Şeyler Öğrenmek"/>
-</p>
-<p align="center">
-  <strong>Kitap Okumak</strong>  •  <strong>Film İzlemek</strong>  •  <strong>Araştırma</strong>  •  <strong>Yeni Şeyler Öğrenmek</strong>
-</p>
 
 - **📚 Kitap Okumak:** Zihnimi sakinleştirir ve düşünce yapımı geliştirir
 - **🎬 Film İzlemek:** Farklı kültürleri, düşünceleri ve hisleri keşfetmeyi seviyorum
