@@ -22,13 +22,6 @@
 
 ---
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salihyakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salihyakan" height="30" width="40" /></a>
-<a href="mailto:salihyakann@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" height="30" width="40" /></a>
-<a href="https://instagram.com/salihykn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salihykn" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -102,6 +95,13 @@
 - **🔍 Araştırma Yapmak:** Bilmediğim konuları araştırıp kendime ve çevreme fayda katmayı seviyorum
 - **🚀 Yeni Şeyler Öğrenmek:** Sürekli olarak yeni teknolojiler ve metodolojiler öğrenmeye çalışıyorum
 
+
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/salihyakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salihyakan" height="30" width="40" /></a>
+<a href="mailto:salihyakann@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" height="30" width="40" /></a>
+<a href="https://instagram.com/salihykn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salihykn" height="30" width="40" /></a>
+</p>
 ---
 
 <!-- Snake Animation at Bottom -->
