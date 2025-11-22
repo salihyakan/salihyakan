@@ -1,10 +1,3 @@
-<!-- Header with animated snake -->
-<div align="center">
-  
-![Snake animation](https://github.com/salihyakan/salihyakan/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 <!-- Main Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -13,19 +6,19 @@
 </h1>
 
 <h3 align="center">
-  💻 Python & Django Backend Geliştirici | 🚀 FullStack Developer | 🤖 Yapay Zeka Entegrasyon Uzmanı
+  💻 Python & Django Backend Geliştirici | 🚀 FullStack Developer
 </h3>
 
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/salihyakan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.ked-o.com">
-    <img src="https://img.shields.io/badge/🚀_KED--O_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="KED-O Website">
+  <a href="mailto:salihyakan@protonmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="mailto:salihyakan@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://github.com/salihyakan">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -33,10 +26,10 @@
 ## 📖 Hakkımda
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+Uzmanı;FullStack+Meraklısı;Yapay+Zeka+Sever;Problem+Çözücü" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+Uzmanı;FullStack+Meraklısı;REST+API+Geliştirici;Problem+Çözücü" alt="Typing SVG" />
 </p>
 
-**Backend geliştirme** konusunda tutkulu bir yazılım geliştiriciyim. **Python ve Django** ile profesyonel projeler geliştiriyor, **yapay zeka** araçlarını etkin bir şekilde kullanarak hızlı öğrenme ve farklı teknolojilerde uygulama geliştirme konusunda kendimi sürekli geliştiriyorum.
+**Backend geliştirme** konusunda tutkulu bir yazılım geliştiriciyim. **Python ve Django** ile profesyonel projeler geliştiriyor, modern teknolojileri takip ederek kendimi sürekli geliştiriyorum.
 
 **Teknoloji yaklaşımım:** Mimariye hakim olduğum için ihtiyaç duyulduğunda farklı teknolojileri hızlıca öğrenip proje geliştirebiliyorum. Bu sayede sadece backend değil, fullstack projeler de geliştirebiliyorum.
 
@@ -50,6 +43,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=json&logoColor=white)
 
 </div>
 
@@ -85,20 +79,19 @@
 
 ## 🚀 Öne Çıkan Projeler
 
-### **🎯 KED-O - Yapay Zeka Destekli Üretkenlik Platformu**
-[![KED-O Website](https://img.shields.io/badge/🌐_www.ked--o.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ked-o.com)
+### **🎯 KED-O - Üretkenlik Platformu**
 
 > **Tam Stack Geliştirme - Baştan Sona Proje Yönetimi**
 
 **📋 Proje Detayları:**
-- ✅ Yapay zeka entegreli üretkenlik araçları
+- ✅ Django REST Framework ile API geliştirme
 - ✅ Docker containerization ile modern dağıtım
 - ✅ Redis ve Celery ile arka plan işlem yönetimi
 - ✅ Tam stack geliştirme ve production deployment
 - ✅ Performans optimizasyonu ve ölçeklenebilirlik
 
 **🛠️ Kullanılan Teknolojiler:**
-`Python` `Django` `HTML` `CSS` `JavaScript` `Docker` `Redis` `Celery`
+`Python` `Django` `REST API` `HTML` `CSS` `JavaScript` `Docker` `Redis` `Celery`
 
 ---
 
@@ -130,6 +123,11 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=salihyakan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/salihyakan">
+  <img src="https://activity-graph.herokuapp.com/graph?username=salihyakan&theme=github&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</a>
+
 </div>
 
 ---
@@ -138,13 +136,13 @@
 
 ### **🔧 Teknik Yetenekler**
 - **✅ Backend Development:** Python & Django ile robust API'ler ve sistemler
+- **✅ REST API Geliştirme:** Django REST Framework ile modern API tasarımı
 - **✅ FullStack Projeler:** Baştan sona web uygulamaları geliştirme ve deploy etme
-- **✅ Yapay Zeka Entegrasyonu:** AI araçlarını projelere entegre etme
 - **✅ Mimari Tasarım:** Farklı teknolojilerde sağlam mimari kurabilme
 - **✅ DevOps:** Docker, containerization ve production deployment
 
 ### **🚀 Kişisel Özelliklerim**
-- **🎯 Hızlı Öğrenme:** Yapay zeka ile desteklenmiş etkili öğrenme stratejileri
+- **🎯 Hızlı Öğrenme:** Yeni teknolojileri hızlıca öğrenme ve uygulama
 - **🔍 Problem Çözme:** Karmaşık problemleri analiz edip çözüm üretme
 - **🏗️ Mimari Düşünce:** Teknoloji bağımsız sağlam temeller oluşturma
 - **📈 Sürekli Gelişim:** Yeni teknolojileri takip etme ve uygulama
@@ -175,9 +173,18 @@
 
 ### **Benimle İletişime Geçin!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salih_Yakan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihyakan/)
-[![Website](https://img.shields.io/badge/Website-KED--O_Project-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ked-o.com)
-[![Email](https://img.shields.io/badge/Email-salihyakan@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salihyakan@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Salih_Yakan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihyakan/)
+[![Email](https://img.shields.io/badge/-salihyakan@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salihyakan@protonmail.com)
+[![GitHub](https://img.shields.io/badge/-@salihyakan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salihyakan)
+
+</div>
+
+---
+
+<!-- Snake Animation at Bottom -->
+<div align="center">
+  
+![Snake animation](https://github.com/salihyakan/salihyakan/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -186,7 +193,7 @@
 <div align="center">
 
 ### **⚡ Hızlı Gerçek**
-> *"Yapay zeka ile öğreniyor, mimari ile inşa ediyorum. Kod yazmak benim için sadece bir meslek değil, bir tutku!"*
+> *"Kod yazmak benim için sadece bir meslek değil, bir tutku! Mimari ile inşa ediyor, temiz kod ile sürdürülebilir çözümler üretiyorum."*
 
 <img src="https://komarev.com/ghpvc/?username=salihyakan&label=Profil%20Ziyaretçisi&color=0e75b6&style=flat" alt="Profil görüntüleme sayacı" />
 
