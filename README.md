@@ -115,10 +115,10 @@
 ## 📚 İlgi Alanlarım & Hobilerim
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/book.png" width="25" height="25" title="Kitap Okumak"/>
-  <img src="https://img.icons8.com/color/48/000000/film.png" width="25" height="25" title="Film İzlemek"/>
-  <img src="https://img.icons8.com/color/48/000000/search.png" width="25" height="25" title="Araştırma"/>
-  <img src="https://img.icons8.com/color/48/000000/learning.png" width="25" height="25" title="Yeni Şeyler Öğrenmek"/>
+  <img src="https://img.icons8.com/color/48/000000/book.png" width="35" height="35" title="Kitap Okumak"/>
+  <img src="https://img.icons8.com/color/48/000000/clapperboard.png" width="35" height="35" title="Film İzlemek"/>
+  <img src="https://img.icons8.com/color/48/000000/search.png" width="35" height="35" title="Araştırma"/>
+  <img src="https://img.icons8.com/color/48/000000/learning.png" width="35" height="35" title="Yeni Şeyler Öğrenmek"/>
 </p>
 <p align="center">
   <strong>Kitap Okumak</strong> • <strong>Film İzlemek</strong> • <strong>Araştırma</strong> • <strong>Yeni Şeyler Öğrenmek</strong>
@@ -137,13 +137,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/salihyakan" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="25" height="25"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35" height="35"/>
   </a>
   <a href="mailto:salihyakann@gmail.com" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="25" height="25"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="35" height="35"/>
   </a>
   <a href="https://instagram.com/salihykn" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="25" height="25"/>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="35" height="35"/>
   </a>
 </p>
 <p align="center">
@@ -162,8 +162,6 @@
 ---
 
 <div align="center">
-
-### **⚡ Hızlı Gerçek**
 > *"Kod yazmak benim için sadece bir meslek değil, bir tutku! Mimari ile inşa ediyor, temiz kod ile sürdürülebilir çözümler üretiyorum."*
 
 <img src="https://komarev.com/ghpvc/?username=salihyakan&label=Profil%20Ziyaretçisi&color=0e75b6&style=flat" alt="Profil görüntüleme sayacı" />
