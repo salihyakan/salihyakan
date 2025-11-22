@@ -116,12 +116,21 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/book.png" width="50" height="50" title="Kitap Okumak"/>
+
+
+  
   <img src="https://img.icons8.com/color/48/000000/clapperboard.png" width="50" height="50" title="Film İzlemek"/>
+
+
+  
   <img src="https://img.icons8.com/color/48/000000/search.png" width="50" height="50" title="Araştırma"/>
+
+
+  
   <img src="https://img.icons8.com/color/48/000000/learning.png" width="50" height="50" title="Yeni Şeyler Öğrenmek"/>
 </p>
 <p align="center">
-  <strong>Kitap Okumak</strong> • <strong>Film İzlemek</strong> • <strong>Araştırma</strong> • <strong>Yeni Şeyler Öğrenmek</strong>
+  <strong>Kitap Okumak</strong>  •  <strong>Film İzlemek</strong>  •  <strong>Araştırma</strong>  •  <strong>Yeni Şeyler Öğrenmek</strong>
 </p>
 
 - **📚 Kitap Okumak:** Zihnimi sakinleştirir ve düşünce yapımı geliştirir
@@ -139,15 +148,19 @@
   <a href="https://linkedin.com/in/salihyakan" target="blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
   </a>
+
+  
   <a href="mailto:salihyakann@gmail.com" target="blank">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="50" height="50"/>
   </a>
+
+  
   <a href="https://instagram.com/salihykn" target="blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
 <p align="center">
-  <strong>LinkedIn</strong> • <strong>E-posta</strong> • <strong>Instagram</strong>
+  <strong>LinkedIn</strong>  •  <strong>E-posta</strong>  •  <strong>Instagram</strong>
 </p>
 
 ---
