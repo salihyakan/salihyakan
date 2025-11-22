@@ -9,19 +9,6 @@
   💻 Python & Django Backend Geliştirici | 🚀 FullStack Developer
 </h3>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/salihyakan/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:salihyakan@protonmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/salihyakan">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
 <!-- About Me Section -->
 ## 📖 Hakkımda
 
@@ -71,7 +58,6 @@
   
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -91,20 +77,7 @@
 - ✅ Performans optimizasyonu ve ölçeklenebilirlik
 
 **🛠️ Kullanılan Teknolojiler:**
-`Python` `Django` `REST API` `HTML` `CSS` `JavaScript` `Docker` `Redis` `Celery`
-
----
-
-### **📱 Budget App - Mobil Bütçe Takip Uygulaması**
-> **Mimari Bilgi ile Farklı Teknolojide Proje Geliştirme**
-
-**📋 Proje Detayları:**
-- ✅ Firebase entegrasyonlu bütçe yönetimi
-- ✅ Cross-platform mobil uygulama geliştirme
-- ✅ Mimari yaklaşım ile farklı teknoloji stack'inde başarılı proje
-
-**🛠️ Kullanılan Teknolojiler:**
-`Flutter` `Dart` `Firebase`
+`Python` `Django` `HTML` `CSS` `JavaScript` `Docker` `Redis` `Celery`
 
 ---
 
@@ -151,19 +124,10 @@
 
 ## 📚 İlgi Alanlarım & Hobilerim
 
-<div align="center">
-
-![Kitap Okumak](https://img.shields.io/badge/📚_Kitap_Okumak-FF6B6B?style=for-the-badge)
-![Film İzlemek](https://img.shields.io/badge/🎬_Film_İzlemek-4ECDC4?style=for-the-badge)
-![Araştırma](https://img.shields.io/badge/🔍_Araştırma-45B7D1?style=for-the-badge)
-![Öğrenmek](https://img.shields.io/badge/🚀_Yeni_Şeyler_Öğrenmek-96CEB4?style=for-the-badge)
-
-</div>
-
-- **📚 Kitap Okumak:** Zihnimi sakinleştirir ve düşünce yapımı geliştirir
-- **🎬 Film İzlemek:** Farklı kültürleri, düşünceleri ve hisleri keşfetmeyi seviyorum
-- **🔍 Araştırma Yapmak:** Bilmediğim konuları araştırıp kendime ve çevreme fayda katmayı seviyorum
-- **🚀 Yeni Şeyler Öğrenmek:** Sürekli olarak yeni teknolojiler ve metodolojiler öğrenmeye çalışıyorum
+- **![Kitap Okumak](https://img.shields.io/badge/📚_Kitap_Okumak-FF6B6B?style=for-the-badge):** Zihnimi sakinleştirir ve düşünce yapımı geliştirir
+- **![Film İzlemek](https://img.shields.io/badge/🎬_Film_İzlemek-4ECDC4?style=for-the-badge):** Farklı kültürleri, düşünceleri ve hisleri keşfetmeyi seviyorum
+- **![Araştırma](https://img.shields.io/badge/🔍_Araştırma-45B7D1?style=for-the-badge):** Bilmediğim konuları araştırıp kendime ve çevreme fayda katmayı seviyorum
+- **![Öğrenmek](https://img.shields.io/badge/🚀_Yeni_Şeyler_Öğrenmek-96CEB4?style=for-the-badge):** Sürekli olarak yeni teknolojiler ve metodolojiler öğrenmeye çalışıyorum
 
 ---
 
@@ -173,21 +137,21 @@
 
 ### **Benimle İletişime Geçin!**
 
-[![LinkedIn](https://img.shields.io/badge/-Salih_Yakan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihyakan/)
-[![Email](https://img.shields.io/badge/-salihyakan@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salihyakan@protonmail.com)
-[![GitHub](https://img.shields.io/badge/-@salihyakan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salihyakan)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihyakan/)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salihyakann@gmail.com)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salihyakan)
 
 </div>
 
 ---
 
 <!-- Snake Animation at Bottom -->
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake.svg">
+</picture>
   
-![Snake animation](https://github.com/salihyakan/salihyakan/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ---
 
 <div align="center">
