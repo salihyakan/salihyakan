@@ -22,25 +22,91 @@
 
 ---
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-</p>
+## 🛠️ Diller ve Araçlar
+
+### **💻 Programlama Dilleri**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    <br><strong>Python</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
+    <br><strong>Dart</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+    <br><strong>JavaScript</strong>
+  </div>
+</div>
+
+### **🌐 Web Geliştirme**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
+    <br><strong>Django</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+    <br><strong>HTML5</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+    <br><strong>CSS3</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+    <br><strong>Bootstrap</strong>
+  </div>
+</div>
+
+### **📱 Mobil & Diğer Framework'ler**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
+    <br><strong>Flutter</strong>
+  </div>
+</div>
+
+### **🗄️ Veritabanları**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+    <br><strong>PostgreSQL</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
+    <br><strong>Redis</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+    <br><strong>Firebase</strong>
+  </div>
+</div>
+
+### **⚙️ DevOps & Araçlar**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+    <br><strong>Docker</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+    <br><strong>Git</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+    <br><strong>Postman</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/>
+    <br><strong>RabbitMQ</strong>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
+    <br><strong>Google Cloud</strong>
+  </div>
+</div>
 
 ---
 
@@ -81,12 +147,24 @@
 
 ## 📚 İlgi Alanlarım & Hobilerim
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
 
-![Kitap Okumak](https://img.shields.io/badge/📚_Kitap_Okumak-FF6B6B?style=for-the-badge)
-![Film İzlemek](https://img.shields.io/badge/🎬_Film_İzlemek-4ECDC4?style=for-the-badge)
-![Araştırma](https://img.shields.io/badge/🔍_Araştırma-45B7D1?style=for-the-badge)
-![Öğrenmek](https://img.shields.io/badge/🚀_Yeni_Şeyler_Öğrenmek-96CEB4?style=for-the-badge)
+<div style="text-align: center;">
+  <img src="https://img.icons8.com/color/48/000000/book.png" width="40" height="40"/>
+  <br><strong>Kitap Okumak</strong>
+</div>
+<div style="text-align: center;">
+  <img src="https://img.icons8.com/color/48/000000/film.png" width="40" height="40"/>
+  <br><strong>Film İzlemek</strong>
+</div>
+<div style="text-align: center;">
+  <img src="https://img.icons8.com/color/48/000000/search.png" width="40" height="40"/>
+  <br><strong>Araştırma</strong>
+</div>
+<div style="text-align: center;">
+  <img src="https://img.icons8.com/color/48/000000/learning.png" width="40" height="40"/>
+  <br><strong>Yeni Şeyler Öğrenmek</strong>
+</div>
 
 </div>
 
@@ -95,20 +173,51 @@
 - **🔍 Araştırma Yapmak:** Bilmediğim konuları araştırıp kendime ve çevreme fayda katmayı seviyorum
 - **🚀 Yeni Şeyler Öğrenmek:** Sürekli olarak yeni teknolojiler ve metodolojiler öğrenmeye çalışıyorum
 
+---
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salihyakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salihyakan" height="30" width="40" /></a>
-<a href="mailto:salihyakann@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" height="30" width="40" /></a>
-<a href="https://instagram.com/salihykn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salihykn" height="30" width="40" /></a>
-</p>
+## 📞 İletişim
+
+<div align="center">
+
+<h3>Benimle iletişime geçin:</h3>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+
+<div style="text-align: center;">
+  <a href="https://linkedin.com/in/salihyakan" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="45" height="45"/>
+    <br>
+    <strong>LinkedIn</strong>
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a href="mailto:salihyakann@gmail.com" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="45" height="45"/>
+    <br>
+    <strong>E-posta</strong>
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://instagram.com/salihykn" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="45" height="45"/>
+    <br>
+    <strong>Instagram</strong>
+  </a>
+</div>
+
+</div>
+
+</div>
+
 ---
 
 <!-- Snake Animation at Bottom -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake.svg" style="width: 100%;">
 </picture>
 
 ---
