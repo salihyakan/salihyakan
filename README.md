@@ -1,167 +1,157 @@
-<!-- Main Header -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Merhaba, Ben Salih Yakan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<!-- Header -->
+<h1 align="center">Merhaba, ben Salih Yakan 👋</h1>
 
 <h3 align="center">
-  💻 Python & Django Backend Geliştirici | 🚀 FullStack Developer
+  💻 Full-Stack Developer · Flutter & Django · 📍 Malatya, Türkiye
 </h3>
 
-<!-- About Me Section -->
-## 📖 Hakkımda
+<p align="center"><i>Kendi uygulamalarımı fikirden mağazaya kadar tek başıma geliştiriyorum.</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+Uzmanı;FullStack+Meraklısı;REST+API+Geliştirici;Problem+Çözücü" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Flutter+%2B+Python+%2F+Django;Fikir+%E2%86%92+Tasar%C4%B1m+%E2%86%92+Kod+%E2%86%92+Yay%C4%B1n+%E2%86%92+B%C3%BCy%C3%BCme;2+uygulama+App+Store+%26+Google+Play'de;Yeni+i%C5%9F+f%C4%B1rsatlar%C4%B1na+a%C3%A7%C4%B1%C4%9F%C4%B1m+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
-**Backend geliştirme** konusunda tutkulu bir yazılım geliştiriciyim. **Python ve Django** ile profesyonel projeler geliştiriyor, modern teknolojileri takip ederek kendimi sürekli geliştiriyorum.
-
-**Teknoloji yaklaşımım:** Mimariye hakim olduğum için ihtiyaç duyulduğunda farklı teknolojileri hızlıca öğrenip proje geliştirebiliyorum. Bu sayede sadece backend değil, fullstack projeler de geliştirebiliyorum.
-
----
-
-## 🛠️ Diller ve Araçlar
-
-### **💻 Programlama Dilleri**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" title="Python"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="25" height="25" title="Dart"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" title="JavaScript"/>
-</p>
-<p align="center">
-  <strong>Python</strong> • <strong>Dart</strong> • <strong>JavaScript</strong>
-</p>
-
-### **🌐 Web Geliştirme**
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="25" height="25" title="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25" title="Bootstrap"/>
-</p>
-<p align="center">
-  <strong>Django</strong> • <strong>HTML5</strong> • <strong>CSS3</strong> • <strong>Bootstrap</strong>
-</p>
-
-### **📱 Mobil & Diğer Framework'ler**
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="25" height="25" title="Flutter"/>
-</p>
-<p align="center">
-  <strong>Flutter</strong>
-</p>
-
-### **🗄️ Veritabanları**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" title="Redis"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="25" height="25" title="Firebase"/>
-</p>
-<p align="center">
-  <strong>PostgreSQL</strong> • <strong>Redis</strong> • <strong>Firebase</strong>
-</p>
-
-### **⚙️ DevOps & Araçlar**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25" title="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25" title="Postman"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="25" height="25" title="RabbitMQ"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" title="Google Cloud"/>
-</p>
-<p align="center">
-  <strong>Docker</strong> • <strong>Git</strong> • <strong>Postman</strong> • <strong>RabbitMQ</strong> • <strong>Google Cloud</strong>
+  <img src="https://img.shields.io/badge/%C4%B0%C5%9F_F%C4%B1rsatlar%C4%B1na-A%C3%A7%C4%B1k-22C55E?style=for-the-badge" alt="İş fırsatlarına açık"/>
+  <a href="https://www.linkedin.com/in/salihyakan/"><img src="https://img.shields.io/badge/LinkedIn-salihyakan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:salihyakann@gmail.com"><img src="https://img.shields.io/badge/E--posta-salihyakann%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/></a>
+  <a href="https://salihyakan.github.io/app-links/"><img src="https://img.shields.io/badge/Uygulamalar%C4%B1m-T%C3%BCm%C3%BC-111827?style=for-the-badge&logo=appstore&logoColor=white" alt="Uygulamalarım"/></a>
 </p>
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🧭 Hakkımda
 
-### **🎯 [KED-O - Üretkenlik Platformu](https://www.ked-o.com)**
+Yazılıma **Python & Django** ile backend tarafında başladım. Zamanla bir uygulamanın sadece koddan ibaret olmadığını, fikirden yayına kadar bütün sürecin bir parçası olmayı sevdiğimi fark ettim.
 
-> **FullStack Geliştirme - Baştan Sona Proje Yönetimi**
+Şu an kendi uygulamalarımı **uçtan uca tek başıma** geliştiriyorum: fikir, kullanıcı deneyimi ve arayüz, mobil uygulama, veritabanı ve API, test, mağazaya yayın ve sonrasında ürünü geliştirmeye devam etmek. İki uygulamam App Store ve Google Play'de yayında.
 
-**📋 Proje Detayları:**
-- ✅ Django REST Framework ile API geliştirme
-- ✅ Docker containerization ile modern dağıtım
-- ✅ Redis ve Celery ile arka plan işlem yönetimi
-- ✅ FullStack geliştirme ve production deployment
-- ✅ Performans optimizasyonu ve ölçeklenebilirlik
+Beni en çok ilgilendiren şey sadece çalışan değil, **kullanımı kolay ve gerçek bir ihtiyaca cevap veren** ürünler yapmak. Bu deneyimi şimdi **profesyonel bir ekip içinde** ileri taşımak, gerçek projelere katkı sağlamak istiyorum.
 
-**🛠️ Kullanılan Teknolojiler:**
-`Python` `Django` `HTML` `CSS` `JavaScript` `Docker` `Redis` `Celery`
-
----
-
-## 💡 Yeteneklerim & Uzmanlık Alanlarım
-
-### **🔧 Teknik Yetenekler**
-- **✅ Backend Development:** Python & Django ile robust API'ler ve sistemler
-- **✅ REST API Geliştirme:** Django REST Framework ile modern API tasarımı
-- **✅ FullStack Projeler:** Baştan sona web uygulamaları geliştirme ve deploy etme
-- **✅ Mimari Tasarım:** Farklı teknolojilerde sağlam mimari kurabilme
-- **✅ DevOps:** Docker, containerization ve production deployment
-
-### **🚀 Kişisel Özelliklerim**
-- **🎯 Hızlı Öğrenme:** Yeni teknolojileri hızlıca öğrenme ve uygulama
-- **🔍 Problem Çözme:** Karmaşık problemleri analiz edip çözüm üretme
-- **🏗️ Mimari Düşünce:** Teknoloji bağımsız sağlam temeller oluşturma
-- **📈 Sürekli Gelişim:** Yeni teknolojileri takip etme ve uygulama
+<table>
+  <tr>
+    <td align="center">💡<br/><b>Fikir</b><br/><sub>Pazar & rakip<br/>araştırması</sub></td>
+    <td align="center">🎨<br/><b>Tasarım</b><br/><sub>UI/UX, ikon,<br/>marka kimliği</sub></td>
+    <td align="center">💻<br/><b>Geliştirme</b><br/><sub>Mobil, backend,<br/>AI entegrasyonu</sub></td>
+    <td align="center">🚀<br/><b>Yayın</b><br/><sub>App Store &<br/>Google Play</sub></td>
+    <td align="center">💳<br/><b>Gelir</b><br/><sub>Abonelik, IAP,<br/>reklam</sub></td>
+    <td align="center">📣<br/><b>Büyüme</b><br/><sub>Sosyal medya,<br/>içerik, ASO</sub></td>
+  </tr>
+</table>
 
 ---
 
-## 📚 İlgi Alanlarım & Hobilerim
+## 📱 Uygulamalarım
 
+<table>
+  <tr>
+    <td width="96" align="center">
+      <img src="https://salihyakan.github.io/app-links/assets/icons/habitrive.png" width="72" alt="HabitRive"/>
+    </td>
+    <td>
+      <h3>HabitRive <sub>· Canlıda</sub></h3>
+      Alışkanlık ve hedef takibi. AI koç, haftalık AI raporları, arkadaşlarla aylık yarışma ve ortak hedefler.<br/>
+      <sub><code>Freemium abonelik</code> <code>RevenueCat</code> <code>Gemini AI</code> <code>iOS & Android</code></sub><br/><br/>
+      <a href="https://apps.apple.com/us/app/habitrive/id6779247747"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/></a>
+      <a href="https://play.google.com/store/apps/details?id=com.habitrive.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center">
+      <img src="https://salihyakan.github.io/app-links/assets/icons/yonetimo.png" width="72" alt="Yönetimo"/>
+    </td>
+    <td>
+      <h3>Yönetimo <sub>· Canlıda</sub></h3>
+      Apartman ve site yönetimi. Yönetici tek panelden birden fazla yapıyı yönetir: aidat, duyuru, oylama, arıza takibi, gelir-gider ve dekontlar. Sakinler her şeyi şeffaf biçimde görür.<br/>
+      <sub><code>Flutter</code> <code>B2B2C</code> <code>Kademeli abonelik paketleri</code> <code>iOS & Android</code></sub><br/><br/>
+      <a href="https://apps.apple.com/us/app/yonetimo/id6784320921"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/></a>
+      <a href="https://play.google.com/store/apps/details?id=com.yonetimo.yonetimo"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center">
+      <img src="https://salihyakan.github.io/app-links/assets/icons/charmelo.png" width="72" alt="Charmelo"/>
+    </td>
+    <td>
+      <h3>Charmelo <sub>· Yakında</sub></h3>
+      Fantastik köy inşası ve companion koleksiyonu üzerine kurulu casual mobil oyun.<br/>
+      <sub><code>Phaser 3</code> <code>TypeScript</code> <code>Capacitor</code> <code>AdMob + IAP</code></sub>
+    </td>
+  </tr>
+</table>
 
-- **📚 Kitap Okumak:** Zihnimi sakinleştirir ve düşünce yapımı geliştirir
-- **🎬 Film İzlemek:** Farklı kültürleri, düşünceleri ve hisleri keşfetmeyi seviyorum
-- **🔍 Araştırma Yapmak:** Bilmediğim konuları araştırıp kendime ve çevreme fayda katmayı seviyorum
-- **🚀 Yeni Şeyler Öğrenmek:** Sürekli olarak yeni teknolojiler ve metodolojiler öğrenmeye çalışıyorum
+<details>
+<summary><b>🗂️ Önceki çalışmalar</b></summary>
+<br/>
+
+**[KED-O · Üretkenlik Platformu](https://www.ked-o.com)** · Django REST Framework API, Docker ile dağıtım, Redis & Celery ile arka plan işleri. Baştan sona fullstack geliştirme ve production deployment.<br/>
+<sub><code>Python</code> <code>Django</code> <code>DRF</code> <code>Docker</code> <code>Redis</code> <code>Celery</code></sub>
+
+</details>
 
 ---
 
-## 📞 İletişim
-
-<h3 align="center">Benimle iletişime geçin:</h3>
+## 🛠️ Kullandığım Teknolojiler
 
 <p align="center">
-  <a href="https://linkedin.com/in/salihyakan" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
-  </a>
-
-  
-  <a href="mailto:salihyakann@gmail.com" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="50" height="50"/>
-  </a>
-
-  
-  <a href="https://instagram.com/salihykn" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="50" height="50"/>
-  </a>
+  <b>Mobil & Oyun</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,androidstudio,apple" alt="Mobil"/>
 </p>
+
 <p align="center">
-  <strong>LinkedIn</strong>  •  <strong>E-posta</strong>  •  <strong>Instagram</strong>
+  <b>Backend & Veri</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,django,firebase,postgres,redis" alt="Backend"/>
+</p>
+
+<p align="center">
+  <b>Altyapı & Araçlar</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,figma,postman" alt="Araçlar"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="FCM"/>
+  <img src="https://img.shields.io/badge/Firebase_App_Check-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="App Check"/>
+  <img src="https://img.shields.io/badge/flutter__animate-02569B?style=flat-square&logo=flutter&logoColor=white" alt="flutter_animate"/>
+  <img src="https://img.shields.io/badge/REST_API-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logo=revenuecat&logoColor=white" alt="RevenueCat"/>
+  <img src="https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white" alt="AdMob"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor"/>
+  <img src="https://img.shields.io/badge/Phaser-8A2BE2?style=flat-square" alt="Phaser"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/>
 </p>
 
 ---
 
-<!-- Snake Animation at Bottom -->
+## 🎯 Şu An
+
+- 🤝 **Full-stack / mobil geliştirici olarak bir ekibe katılmak için yeni fırsatlara açığım**
+- 🎮 **Charmelo**'yu mağazalara hazırlıyorum
+- 📈 HabitRive ve Yönetimo'yu geliştirmeye ve büyütmeye devam ediyorum
+
+---
+
+## 🎓 Eğitim & Diller
+
+- 🎓 **İnönü Üniversitesi** · Lisans (2014 – 2018)
+- 🌍 **Türkçe** (ana dil) · **İngilizce** (profesyonel çalışma düzeyi)
+- 📜 Sertifikalar: Web Servislerine Giriş · İş Süreçleri Yönetimi · Yönetim ve Organizasyon · İkna Teknikleri
+
+---
+
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salihyakan/salihyakan/output/github-contribution-grid-snake.svg" style="width: 100%;">
 </picture>
 
----
-
 <div align="center">
 
-*"Kod yazmak benim için sadece bir meslek değil, bir tutku! Mimari ile inşa ediyor, temiz kod ile sürdürülebilir çözümler üretiyorum."*
+*"Sadece çalışan değil, kullanımı kolay ve gerçek bir ihtiyaca cevap veren ürünler."*
 
-<img src="https://komarev.com/ghpvc/?username=salihyakan&label=Profil%20Ziyaretçisi&color=0e75b6&style=flat" alt="Profil görüntüleme sayacı" />
+**Yeni projeler, iş fırsatları ya da sadece ürün geliştirme üzerine sohbet için: [LinkedIn](https://www.linkedin.com/in/salihyakan/) · [salihyakann@gmail.com](mailto:salihyakann@gmail.com)**
 
-**⭐ Profilimi ziyaret ettiğiniz için teşekkür ederim!**
+<img src="https://komarev.com/ghpvc/?username=salihyakan&label=Profil%20Ziyaret%C3%A7isi&color=0e75b6&style=flat" alt="Profil görüntüleme sayacı" />
 
 </div>
