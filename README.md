@@ -46,7 +46,7 @@ Amacım yalnızca çalışan değil, kolay kullanılan ve gerçek bir ihtiyacı 
 <table>
   <tr>
     <td width="96" align="center">
-      <img src="assets/habitrive.png" width="72" alt="HabitRive"/>
+      <img src="https://raw.githubusercontent.com/salihyakan/salihyakan/main/assets/habitrive.png" width="72" alt="HabitRive"/>
     </td>
     <td>
       <h3>HabitRive · <sub>Yayında</sub></h3>
@@ -58,7 +58,7 @@ Amacım yalnızca çalışan değil, kolay kullanılan ve gerçek bir ihtiyacı 
   </tr>
   <tr>
     <td width="96" align="center">
-      <img src="assets/yonetimo.png" width="72" alt="Yönetimo"/>
+      <img src="https://raw.githubusercontent.com/salihyakan/salihyakan/main/assets/yonetimo.png" width="72" alt="Yönetimo"/>
     </td>
     <td>
       <h3>Yönetimo · <sub>Yayında</sub></h3>
@@ -70,7 +70,7 @@ Amacım yalnızca çalışan değil, kolay kullanılan ve gerçek bir ihtiyacı 
   </tr>
   <tr>
     <td width="96" align="center">
-      <img src="assets/kedo.png" width="64" alt="Ked-O"/>
+      <img src="https://raw.githubusercontent.com/salihyakan/salihyakan/main/assets/kedo.png" width="72" alt="Ked-O"/>
     </td>
     <td>
       <h3>Ked-O · <sub>Yayında</sub></h3>
@@ -81,7 +81,7 @@ Amacım yalnızca çalışan değil, kolay kullanılan ve gerçek bir ihtiyacı 
   </tr>
   <tr>
     <td width="96" align="center">
-      <img src="assets/charmelo.png" width="72" alt="Charmelo"/>
+      <img src="https://raw.githubusercontent.com/salihyakan/salihyakan/main/assets/charmelo.png" width="72" alt="Charmelo"/>
     </td>
     <td>
       <h3>Charmelo · <sub>Geliştiriliyor</sub></h3>
